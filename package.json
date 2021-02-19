@@ -1,0 +1,34 @@
+{
+  "name": "shopmanage",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "core-js": "^3.6.4",
+    "echarts": "^4.8.0",
+    "element-ui": "^2.4.5",
+    "jwchat": "^0.2.41",
+    "nprogress": "^0.2.0",
+    "sockjs-client": "^1.4.0",
+    "stompjs": "^2.3.3",
+    "vue": "^2.6.11",
+    "vue-router": "^3.1.6",
+    "vue-table-with-tree-grid": "^0.2.4",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.3.0",
+    "@vue/cli-plugin-router": "~4.3.0",
+    "@vue/cli-service": "~4.3.0",
+    "babel-plugin-component": "^1.1.1",
+    "babel-plugin-transform-remove-console": "^6.9.4",
+    "less": "^3.11.1",
+    "less-loader": "^6.0.0",
+    "vue-cli-plugin-element": "^1.0.1",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
